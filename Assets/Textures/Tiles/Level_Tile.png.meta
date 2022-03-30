@@ -1,0 +1,4800 @@
+fileFormatVersion: 2
+guid: edf46c009eef7e643a252d22211788e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5218025329501509832
+    second: SLD_CeilingRim_EdgeL
+  - first:
+      213: -4395563163093696876
+    second: SLD_CeilingRim_Cracked
+  - first:
+      213: -6309211548303053606
+    second: SLD_CeilingRim_0
+  - first:
+      213: 2035013331554924335
+    second: SLD_CeilingRim_1
+  - first:
+      213: -1766504496743243750
+    second: SLD_CeilingRim_EdgeR
+  - first:
+      213: 3308611532931511978
+    second: FG_Arc_L
+  - first:
+      213: 2061886845440652866
+    second: FG_Ark_R
+  - first:
+      213: 2372607687451482134
+    second: Roof
+  - first:
+      213: -3973498947130491331
+    second: Dude
+  - first:
+      213: -2588342997116896065
+    second: Level_Tiles_3
+  - first:
+      213: -5541882344862308478
+    second: Level_Tiles_4
+  - first:
+      213: -1239202484521993202
+    second: Level_Tiles_5
+  - first:
+      213: 7295737658954767084
+    second: Level_Tiles_6
+  - first:
+      213: -5039892974880365072
+    second: Level_Tiles_7
+  - first:
+      213: -2314059718143038166
+    second: Level_Tiles_8
+  - first:
+      213: 7321791008433592858
+    second: Level_Tiles_9
+  - first:
+      213: 5806196765288808812
+    second: Level_Tiles_10
+  - first:
+      213: 859881150453364035
+    second: Level_Tiles_11
+  - first:
+      213: 4289701326980602978
+    second: Level_Tiles_12
+  - first:
+      213: 1677885293432275968
+    second: Level_Tiles_13
+  - first:
+      213: -2706884398019675905
+    second: Level_Tiles_14
+  - first:
+      213: -5008434638747227089
+    second: Level_Tiles_15
+  - first:
+      213: 828192177287208195
+    second: Level_Tiles_16
+  - first:
+      213: 1134693467672147089
+    second: Level_Tiles_17
+  - first:
+      213: -7211238020556773674
+    second: Level_Tiles_18
+  - first:
+      213: 2781358469873072742
+    second: Level_Tiles_19
+  - first:
+      213: 5218252354793458067
+    second: Level_Tiles_20
+  - first:
+      213: 6738924891095448748
+    second: Level_Tiles_21
+  - first:
+      213: -7667523381245326689
+    second: Level_Tiles_22
+  - first:
+      213: 2295309426673100779
+    second: Level_Tiles_23
+  - first:
+      213: 5639285175348030356
+    second: Level_Tiles_24
+  - first:
+      213: 2201502419371984024
+    second: Level_Tiles_25
+  - first:
+      213: 467832532050527417
+    second: Level_Tiles_26
+  - first:
+      213: 8791848424582089028
+    second: Level_Tiles_27
+  - first:
+      213: -2883440109250233558
+    second: Level_Tiles_28
+  - first:
+      213: 2530128269565361641
+    second: Level_Tiles_29
+  - first:
+      213: 5024720946625890096
+    second: Level_Tiles_30
+  - first:
+      213: 2452986311886288747
+    second: Level_Tiles_31
+  - first:
+      213: -1715021945257274066
+    second: Level_Tiles_32
+  - first:
+      213: -217700115388994721
+    second: Level_Tiles_33
+  - first:
+      213: 5897436403760433538
+    second: Level_Tiles_34
+  - first:
+      213: -781510654143786717
+    second: Level_Tiles_35
+  - first:
+      213: 4538372602524199932
+    second: Level_Tiles_36
+  - first:
+      213: -7249997674808189673
+    second: Level_Tiles_37
+  - first:
+      213: -6557013250847507474
+    second: Level_Tiles_38
+  - first:
+      213: 3889821763562530872
+    second: Level_Tiles_39
+  - first:
+      213: -1273380320072087256
+    second: Level_Tiles_40
+  - first:
+      213: 1220104737110113160
+    second: Level_Tiles_41
+  - first:
+      213: 2190261408487014817
+    second: Level_Tiles_42
+  - first:
+      213: 2906757923727729351
+    second: Level_Tiles_43
+  - first:
+      213: -292324071834694715
+    second: Level_Tiles_44
+  - first:
+      213: 7215888436634062992
+    second: Level_Tiles_45
+  - first:
+      213: -3891577572455172536
+    second: Level_Tiles_46
+  - first:
+      213: -4407569680014442882
+    second: Level_Tiles_47
+  - first:
+      213: 6399085348652475846
+    second: Level_Tiles_48
+  - first:
+      213: -8832899845816384089
+    second: Level_Tiles_49
+  - first:
+      213: 4244377596835244138
+    second: Level_Tiles_50
+  - first:
+      213: -4603285264769984883
+    second: Level_Tiles_51
+  - first:
+      213: 8352751567201680883
+    second: Level_Tiles_52
+  - first:
+      213: -21236300376133138
+    second: Level_Tiles_53
+  - first:
+      213: -5654774687427031864
+    second: Level_Tiles_54
+  - first:
+      213: 7463482957568043008
+    second: Level_Tiles_55
+  - first:
+      213: -4380797292572998012
+    second: Level_Tiles_56
+  - first:
+      213: 7714112611600636509
+    second: Level_Tiles_57
+  - first:
+      213: 8557845880861104046
+    second: Level_Tiles_58
+  - first:
+      213: -7074676353833972828
+    second: Level_Tiles_59
+  - first:
+      213: -8428929694438538829
+    second: Level_Tiles_60
+  - first:
+      213: 4350494665811025415
+    second: Level_Tiles_61
+  - first:
+      213: -385434290672890769
+    second: Level_Tiles_62
+  - first:
+      213: -5373792532468270096
+    second: Level_Tiles_63
+  - first:
+      213: 817092590137949476
+    second: Level_Tiles_64
+  - first:
+      213: -1787501507646803323
+    second: Level_Tiles_65
+  - first:
+      213: 9208409148277311108
+    second: Level_Tiles_66
+  - first:
+      213: 3242740258277809998
+    second: Level_Tiles_67
+  - first:
+      213: 6102688699831419099
+    second: Level_Tiles_68
+  - first:
+      213: -1491423325634919379
+    second: Level_Tiles_69
+  - first:
+      213: -3318568497778369442
+    second: Level_Tiles_70
+  - first:
+      213: 7002133171419045247
+    second: Level_Tiles_71
+  - first:
+      213: 2174245427753133302
+    second: Level_Tiles_72
+  - first:
+      213: 6052776880374758628
+    second: Level_Tiles_73
+  - first:
+      213: -9165673958083301131
+    second: Level_Tiles_74
+  - first:
+      213: 6218477657625596766
+    second: Level_Tiles_75
+  - first:
+      213: -5098444202186247933
+    second: Level_Tiles_76
+  - first:
+      213: 456011269591146841
+    second: Level_Tiles_77
+  - first:
+      213: 6958142898613500207
+    second: Level_Tiles_78
+  - first:
+      213: 4898298173648312246
+    second: Level_Tiles_79
+  - first:
+      213: 6501743869023856036
+    second: Level_Tiles_80
+  - first:
+      213: -2953673181399954444
+    second: Level_Tiles_81
+  - first:
+      213: -2117718363266213301
+    second: Level_Tiles_82
+  - first:
+      213: 8466126240040538918
+    second: Level_Tiles_83
+  - first:
+      213: -3469616919010414487
+    second: Level_Tiles_84
+  - first:
+      213: -4980486899563512374
+    second: Level_Tiles_85
+  - first:
+      213: 1256008883091962967
+    second: Level_Tiles_86
+  - first:
+      213: 5722350390347655754
+    second: Level_Tiles_87
+  - first:
+      213: -7990524651004150464
+    second: Level_Tiles_88
+  - first:
+      213: -7350372141934231266
+    second: Level_Tiles_89
+  - first:
+      213: 6649557412688248134
+    second: Level_Tiles_90
+  - first:
+      213: 8834920033348455301
+    second: Level_Tiles_91
+  - first:
+      213: 4953601802446565437
+    second: Level_Tiles_92
+  - first:
+      213: 933317242820642978
+    second: Level_Tiles_93
+  - first:
+      213: 7702581874447545268
+    second: Level_Tiles_94
+  - first:
+      213: -4624548273019665771
+    second: Level_Tiles_95
+  - first:
+      213: 896499892748365532
+    second: Level_Tiles_96
+  - first:
+      213: 3222245739450301295
+    second: Level_Tiles_97
+  - first:
+      213: -4933522338372597398
+    second: Level_Tiles_98
+  - first:
+      213: -5574010966149234335
+    second: Level_Tiles_99
+  - first:
+      213: 4889395776831476420
+    second: Level_Tiles_100
+  - first:
+      213: -2857205175717928570
+    second: Level_Tiles_101
+  - first:
+      213: -1363897565645620642
+    second: Level_Tiles_102
+  - first:
+      213: 6688525421694041506
+    second: Level_Tiles_103
+  - first:
+      213: -7398065372308568081
+    second: Level_Tiles_104
+  - first:
+      213: -1697519029172822812
+    second: Level_Tiles_105
+  - first:
+      213: 2538952826114881679
+    second: Level_Tiles_106
+  - first:
+      213: -790417203474122158
+    second: Level_Tiles_107
+  - first:
+      213: 7402097270719674847
+    second: Level_Tiles_108
+  - first:
+      213: -4773725632840881304
+    second: Level_Tiles_109
+  - first:
+      213: 1577035609899438405
+    second: Level_Tiles_110
+  - first:
+      213: -1724239826093329819
+    second: Level_Tiles_111
+  - first:
+      213: -7350233648244615261
+    second: Level_Tiles_112
+  - first:
+      213: 7761750719022734361
+    second: Level_Tiles_113
+  - first:
+      213: -1006901370415989194
+    second: Level_Tiles_114
+  - first:
+      213: 7175220041922158740
+    second: Level_Tiles_115
+  - first:
+      213: 1308721946093537114
+    second: Level_Tiles_116
+  - first:
+      213: 2879999367667006895
+    second: Level_Tiles_117
+  - first:
+      213: -4439088233504800447
+    second: Level_Tiles_118
+  - first:
+      213: 3986855674432751326
+    second: Level_Tiles_119
+  - first:
+      213: -8910512863453857212
+    second: Level_Tiles_120
+  - first:
+      213: -7920813947596001147
+    second: Level_Tiles_121
+  - first:
+      213: -3034341699013450898
+    second: Level_Tiles_122
+  - first:
+      213: 7568517016082578896
+    second: Level_Tiles_123
+  - first:
+      213: -7021275418863841031
+    second: Level_Tiles_124
+  - first:
+      213: 6773390097367667496
+    second: Level_Tiles_125
+  - first:
+      213: -7989805569293977281
+    second: Level_Tiles_126
+  - first:
+      213: 2930281088757438408
+    second: Level_Tiles_127
+  - first:
+      213: 5948525772597246788
+    second: Level_Tiles_128
+  - first:
+      213: -3425405915138369310
+    second: Level_Tiles_129
+  - first:
+      213: 8688236485035990490
+    second: Level_Tiles_130
+  - first:
+      213: -2006607668657614728
+    second: Level_Tiles_131
+  - first:
+      213: -304724584551162386
+    second: Level_Tiles_132
+  - first:
+      213: -6054517484184120386
+    second: Level_Tiles_133
+  - first:
+      213: 7689684430089052807
+    second: Level_Tiles_134
+  - first:
+      213: -6024330040828084476
+    second: Level_Tiles_135
+  - first:
+      213: -8958285975473345986
+    second: Level_Tiles_136
+  - first:
+      213: -8047247216923422385
+    second: Level_Tiles_137
+  - first:
+      213: 3257839161227337219
+    second: Level_Tiles_138
+  - first:
+      213: 8894302351137795426
+    second: Level_Tiles_139
+  - first:
+      213: -5372715747336237740
+    second: Level_Tiles_140
+  - first:
+      213: 3762509779519063135
+    second: Level_Tiles_141
+  - first:
+      213: -727929466155629389
+    second: Level_Tile_1
+  - first:
+      213: 7861342909942446640
+    second: Level_Tile_2
+  - first:
+      213: -9147846086676651216
+    second: Level_Tile_3
+  - first:
+      213: -6743931181343400869
+    second: Level_Tile_4
+  - first:
+      213: 2723064402789420597
+    second: Level_Tile_5
+  - first:
+      213: -3288779821590185617
+    second: Level_Tile_6
+  - first:
+      213: -6718519971844828404
+    second: Level_Tile_7
+  - first:
+      213: 4159479775960547908
+    second: Level_Tile_8
+  - first:
+      213: 875412499609739083
+    second: Level_Tile_9
+  - first:
+      213: 9130112462035619328
+    second: Level_Tile_10
+  - first:
+      213: -5343160684763564442
+    second: Level_Tile_11
+  - first:
+      213: 4087384899950183797
+    second: Level_Tile_12
+  - first:
+      213: -154989684429052289
+    second: Level_Tile_13
+  - first:
+      213: -7386101286527312021
+    second: Level_Tile_14
+  - first:
+      213: -3282980253197190129
+    second: Level_Tile_15
+  - first:
+      213: -5090516970355088976
+    second: Level_Tile_16
+  - first:
+      213: -4131481574960483573
+    second: Level_Tile_17
+  - first:
+      213: -2058345102804739603
+    second: Level_Tile_18
+  - first:
+      213: -3381929885104143395
+    second: Level_Tile_19
+  - first:
+      213: -4025267255520017598
+    second: Level_Tile_20
+  - first:
+      213: 7128093146301368953
+    second: Level_Tile_21
+  - first:
+      213: -7843178923901528050
+    second: Level_Tile_22
+  - first:
+      213: 7602717947816230226
+    second: Level_Tile_23
+  - first:
+      213: -401411124421972841
+    second: Level_Tile_24
+  - first:
+      213: -7829823268734515180
+    second: Level_Tile_25
+  - first:
+      213: 1574668368959904459
+    second: Level_Tile_26
+  - first:
+      213: 281000952940737609
+    second: Level_Tile_27
+  - first:
+      213: 4436565244932743874
+    second: Level_Tile_28
+  - first:
+      213: -3031176730730292276
+    second: Level_Tile_29
+  - first:
+      213: 2319240881806709549
+    second: Level_Tile_30
+  - first:
+      213: 8962358453258282967
+    second: Level_Tile_31
+  - first:
+      213: -5360826010552725244
+    second: Level_Tile_32
+  - first:
+      213: 8888746379718646710
+    second: Level_Tile_33
+  - first:
+      213: 8561180716500104558
+    second: Level_Tile_34
+  - first:
+      213: -922938974687620906
+    second: Level_Tile_35
+  - first:
+      213: -8651742268029274108
+    second: Level_Tile_36
+  - first:
+      213: 737443419568897461
+    second: Level_Tile_37
+  - first:
+      213: -64868457925686812
+    second: Level_Tile_38
+  - first:
+      213: 5843803881146020721
+    second: Level_Tile_39
+  - first:
+      213: 7130232567638100973
+    second: Level_Tile_40
+  - first:
+      213: 1563072524338027978
+    second: Level_Tile_41
+  - first:
+      213: -4008406889520136198
+    second: Level_Tile_42
+  - first:
+      213: -4038351596990539158
+    second: Level_Tile_43
+  - first:
+      213: 7039134596890212134
+    second: Level_Tile_44
+  - first:
+      213: -4864354335483589102
+    second: Level_Tile_45
+  - first:
+      213: -9086184787435266080
+    second: Level_Tile_46
+  - first:
+      213: -1502524946269174060
+    second: Level_Tile_47
+  - first:
+      213: -857969926574960381
+    second: Level_Tile_48
+  - first:
+      213: -8852956052147006302
+    second: Level_Tile_49
+  - first:
+      213: -6517771096117979307
+    second: Level_Tile_50
+  - first:
+      213: 282435598160383974
+    second: Level_Tile_51
+  - first:
+      213: -2608689356429660409
+    second: Level_Tile_52
+  - first:
+      213: 6178212172786304879
+    second: Level_Tile_53
+  - first:
+      213: 4997593747773714604
+    second: Level_Tile_54
+  - first:
+      213: -2432241023156453805
+    second: Level_Tile_55
+  - first:
+      213: 6800280800616076728
+    second: Level_Tile_56
+  - first:
+      213: -5686205848418738448
+    second: Level_Tile_57
+  - first:
+      213: 7976004907787169510
+    second: Level_Tile_58
+  - first:
+      213: 9105639657013522529
+    second: Level_Tile_59
+  - first:
+      213: -3067719362769191166
+    second: Level_Tile_60
+  - first:
+      213: -4508977302042066642
+    second: Level_Tile_61
+  - first:
+      213: -6032585445099070587
+    second: Level_Tile_62
+  - first:
+      213: 3360055460058489581
+    second: Level_Tile_63
+  - first:
+      213: -1174931623555586905
+    second: Level_Tile_64
+  - first:
+      213: 6264032853506798843
+    second: Level_Tile_65
+  - first:
+      213: 4535291006034872744
+    second: Level_Tile_66
+  - first:
+      213: 456356947858102739
+    second: Level_Tile_67
+  - first:
+      213: -2361984861363102563
+    second: Level_Tile_68
+  - first:
+      213: -6792005384344588835
+    second: Level_Tile_69
+  - first:
+      213: -3939321138946798765
+    second: Level_Tile_70
+  - first:
+      213: -2088135809990292658
+    second: Level_Tile_71
+  - first:
+      213: -663071735496402772
+    second: Level_Tile_72
+  - first:
+      213: 5654017804737248489
+    second: Level_Tile_73
+  - first:
+      213: 6021558471843480263
+    second: Level_Tile_74
+  - first:
+      213: 4410822741042138607
+    second: Level_Tile_75
+  - first:
+      213: -3065563507419557304
+    second: Level_Tile_76
+  - first:
+      213: 561468783582367750
+    second: Level_Tile_77
+  - first:
+      213: 5437324307532519871
+    second: Level_Tile_78
+  - first:
+      213: 5353989426025164635
+    second: Level_Tile_79
+  - first:
+      213: -1671331024127129547
+    second: Level_Tile_80
+  - first:
+      213: 516272894256820877
+    second: Level_Tile_81
+  - first:
+      213: 2900895929610794514
+    second: Level_Tile_82
+  - first:
+      213: 7227684556544577522
+    second: Level_Tile_83
+  - first:
+      213: -2794884518243540327
+    second: Level_Tile_84
+  - first:
+      213: 8973487927370792725
+    second: Level_Tile_85
+  - first:
+      213: -7634107884697023508
+    second: Level_Tile_86
+  - first:
+      213: -1256891871831562999
+    second: Level_Tile_87
+  - first:
+      213: -704894838235094395
+    second: Level_Tile_88
+  - first:
+      213: 3521522960278331997
+    second: Level_Tile_89
+  - first:
+      213: -794722620870399036
+    second: Level_Tile_90
+  - first:
+      213: -3933644571747849980
+    second: Level_Tile_91
+  - first:
+      213: 5356447876199575665
+    second: Level_Tile_92
+  - first:
+      213: -556628167594506916
+    second: Level_Tile_93
+  - first:
+      213: -1197867139550113221
+    second: Level_Tile_94
+  - first:
+      213: 4218357138034164000
+    second: Level_Tile_95
+  - first:
+      213: -461192491201942338
+    second: Level_Tile_96
+  - first:
+      213: 8713694322600949056
+    second: Level_Tile_97
+  - first:
+      213: -3981477175775508870
+    second: Level_Tile_98
+  - first:
+      213: 2221609762218245382
+    second: Level_Tile_99
+  - first:
+      213: -3298059566929311729
+    second: Level_Tile_100
+  - first:
+      213: 1053117755601648555
+    second: Level_Tile_101
+  - first:
+      213: -2203363698579588347
+    second: Level_Tile_102
+  - first:
+      213: 5838567776945077645
+    second: Level_Tile_103
+  - first:
+      213: -7721071015325398079
+    second: Level_Tile_104
+  - first:
+      213: -4731423852204435750
+    second: Level_Tile_105
+  - first:
+      213: 5643840044939102386
+    second: Level_Tile_106
+  - first:
+      213: -2265357343431298699
+    second: Level_Tile_107
+  - first:
+      213: -2259113980012782662
+    second: Level_Tile_108
+  - first:
+      213: -4305827264479314879
+    second: Level_Tile_109
+  - first:
+      213: -5646252763107868126
+    second: Level_Tile_110
+  - first:
+      213: 6911884762510329566
+    second: Level_Tile_111
+  - first:
+      213: -681731641812745423
+    second: Level_Tile_112
+  - first:
+      213: 5270995263860262466
+    second: Level_Tile_113
+  - first:
+      213: -1014429537226094530
+    second: Level_Tile_114
+  - first:
+      213: 274066058830175512
+    second: Level_Tile_115
+  - first:
+      213: -7732705509371026069
+    second: Blue_Potion
+  - first:
+      213: 8796352232869525636
+    second: Red_Potion
+  - first:
+      213: 1613222454020233201
+    second: Small_Chest_Closed
+  - first:
+      213: -8377818698928849600
+    second: Small_Chest_Full
+  - first:
+      213: 7885167644989875527
+    second: Small_Chest_Empty
+  - first:
+      213: 8523743689444635571
+    second: Large_Chest_Close
+  - first:
+      213: -8761048964216698987
+    second: Cloud_0
+  - first:
+      213: 5144260489077042661
+    second: Large_Chest_Full
+  - first:
+      213: -2236332229547450177
+    second: Level_Tile_124
+  - first:
+      213: 169694904721977394
+    second: Large_Chest_Empty
+  - first:
+      213: 8037079250303677932
+    second: Level_Tile_126
+  - first:
+      213: -8007772902045850856
+    second: Level_Tile_127
+  - first:
+      213: -3312132379493203463
+    second: Cloud_1
+  - first:
+      213: 3547578624352682135
+    second: Level_Tile_129
+  - first:
+      213: 5492660080125819236
+    second: Level_Tile_130
+  - first:
+      213: -7483800679932590322
+    second: Level_Tile_131
+  - first:
+      213: -1617826370272420869
+    second: Level_Tile_132
+  - first:
+      213: -7298972793563372384
+    second: Tall_Pot
+  - first:
+      213: 4339788335598739798
+    second: Short_Pot
+  - first:
+      213: -6949365342598244913
+    second: Level_Tile_135
+  - first:
+      213: 2823696335201400876
+    second: Level_Tile_136
+  - first:
+      213: 7310473746985684225
+    second: Ladder
+  - first:
+      213: -5409144777067889722
+    second: Level_Tile_138
+  - first:
+      213: -7488559417135770518
+    second: Level_Tile_139
+  - first:
+      213: -6835945416535043665
+    second: Level_Tile_140
+  - first:
+      213: -8090363944125950868
+    second: Level_Tile_141
+  - first:
+      213: 7824039696938284039
+    second: NothingToSeeHere
+  - first:
+      213: -3379362941323627353
+    second: Level_Tile_142
+  - first:
+      213: -1534348270952562108
+    second: Level_Tile_143
+  - first:
+      213: 2035262867308015951
+    second: Level_Tile_144
+  - first:
+      213: 7072283455594183322
+    second: Level_Tile_145
+  - first:
+      213: 874066902133242085
+    second: Level_Tile_146
+  - first:
+      213: 4468461078826074933
+    second: Level_Tile_147
+  - first:
+      213: 8692380620277788452
+    second: Level_Tile_148
+  - first:
+      213: -1236618057472326706
+    second: Level_Tile_149
+  - first:
+      213: 3197522710894972833
+    second: Level_Tile_150
+  - first:
+      213: -7772769158192511228
+    second: Level_Tile_151
+  - first:
+      213: -6455446388368154292
+    second: Level_Tile_152
+  - first:
+      213: 4029606345569585974
+    second: Level_Tile_153
+  - first:
+      213: 5848029762026004307
+    second: Level_Tile_154
+  - first:
+      213: 6458730202226409211
+    second: Level_Tile_155
+  - first:
+      213: -1128307377358076997
+    second: Level_Tile_156
+  - first:
+      213: 3270629033933512306
+    second: Level_Tile_157
+  - first:
+      213: -828497962959091846
+    second: Level_Tile_158
+  - first:
+      213: -567976470410526476
+    second: Level_Tile_159
+  - first:
+      213: 4519105191332819530
+    second: Level_Tile_160
+  - first:
+      213: -8022497171171336724
+    second: Level_Tile_161
+  - first:
+      213: 4372137833640364253
+    second: Level_Tile_162
+  - first:
+      213: 4720611425163321017
+    second: Level_Tile_163
+  - first:
+      213: 371442434932209057
+    second: Level_Tile_164
+  - first:
+      213: 7679019815573832295
+    second: Level_Tile_165
+  - first:
+      213: -8060089603015820911
+    second: Level_Tile_166
+  - first:
+      213: -8419914563947835498
+    second: Level_Tile_167
+  - first:
+      213: 4066611495774779601
+    second: Level_Tile_168
+  - first:
+      213: 7424242463855559455
+    second: Level_Tile_169
+  - first:
+      213: 2687774910289156868
+    second: Level_Tile_170
+  - first:
+      213: -4862603947834834089
+    second: Level_Tile_171
+  - first:
+      213: -3446272618834296255
+    second: Level_Tile_172
+  - first:
+      213: -1718607629050958982
+    second: Level_Tile_173
+  - first:
+      213: -255990710013283147
+    second: Level_Tile_174
+  - first:
+      213: -832951008896315332
+    second: Level_Tile_175
+  - first:
+      213: 92154246630246395
+    second: Cloud_2
+  - first:
+      213: -1710897420961818813
+    second: Cloud_3
+  - first:
+      213: -6186070042383792153
+    second: Level_Tile_183
+  - first:
+      213: -9079637775357100818
+    second: Level_Tile_184
+  - first:
+      213: 7802822156357046004
+    second: Level_Tile_185
+  - first:
+      213: -6733034630786540468
+    second: Level_Tile_186
+  - first:
+      213: -567205308170681416
+    second: Level_Tile_187
+  - first:
+      213: -244905564784398314
+    second: Level_Tile_188
+  - first:
+      213: 4360392010588197336
+    second: Level_Tile_189
+  - first:
+      213: -8181195857117203702
+    second: Level_Tile_190
+  - first:
+      213: 6431559576966471787
+    second: Level_Tile_191
+  - first:
+      213: -5141901776184354602
+    second: Level_Tile_192
+  - first:
+      213: -7917186258222507937
+    second: Level_Tile_193
+  - first:
+      213: -4200524922889238795
+    second: Level_Tile_194
+  - first:
+      213: 7722390487403576987
+    second: Level_Tile_195
+  - first:
+      213: -4817589468457978461
+    second: Level_Tile_196
+  - first:
+      213: 8495013446503549587
+    second: Level_Tile_197
+  - first:
+      213: 4081547161153251919
+    second: Level_Tile_198
+  - first:
+      213: -4685434712061565649
+    second: Level_Tile_208
+  - first:
+      213: 4234736070775027413
+    second: Level_Tile_209
+  - first:
+      213: -3823620167132799386
+    second: Level_Tile_210
+  - first:
+      213: -8320410415408315858
+    second: Level_Tile_211
+  - first:
+      213: 4793471711277054950
+    second: Level_Tile_212
+  - first:
+      213: -3405225500739131687
+    second: Level_Tile_213
+  - first:
+      213: 8075077537220694032
+    second: Level_Tile_214
+  - first:
+      213: -3956834296852397390
+    second: Level_Tile_215
+  - first:
+      213: -2101858822900414832
+    second: Level_Tile_216
+  - first:
+      213: -1979976951914745864
+    second: Level_Tile_217
+  - first:
+      213: 8768189347795720338
+    second: Level_Tile_218
+  - first:
+      213: -2734190140046269867
+    second: Level_Tile_219
+  - first:
+      213: -4206283603630774758
+    second: Level_Tile_220
+  - first:
+      213: -5584854815083397352
+    second: Level_Tile_221
+  - first:
+      213: 9218264008702948286
+    second: Level_Tile_222
+  - first:
+      213: 7576049557242958848
+    second: Level_Tile_223
+  - first:
+      213: 1186322024307503589
+    second: Level_Tile_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roof
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 184
+        width: 144
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61818e10f123de020800000000000000
+      internalID: 2372607687451482134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e132108899a67010800000000000000
+      internalID: 1186322024307503589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4014cd100e5e5f0800000000000000
+      internalID: -727929466155629389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab7a4b9b9191d60800000000000000
+      internalID: 7861342909942446640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e0b793725c0180800000000000000
+      internalID: -9147846086676651216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c985a425eb862a0800000000000000
+      internalID: -6743931181343400869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e46cc95a44ac520800000000000000
+      internalID: 2723064402789420597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69f4ad4d28eb52d0800000000000000
+      internalID: -3288779821590185617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0352dd8ea503c2a0800000000000000
+      internalID: -6718519971844828404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442cc8081d079b930800000000000000
+      internalID: 4159479775960547908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_9
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fdc2fb707162c00800000000000000
+      internalID: 875412499609739083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e000b29eca4be70800000000000000
+      internalID: 9130112462035619328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_11
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b5de9aa749d5b0800000000000000
+      internalID: -5343160684763564442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_12
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57583dd19ee49b830800000000000000
+      internalID: 4087384899950183797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76a1c304bd59ddf0800000000000000
+      internalID: -154989684429052289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fdb7d530c4f7990800000000000000
+      internalID: -7386101286527312021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3f8b8ad28072d0800000000000000
+      internalID: -3282980253197190129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b123e249c9da59b0800000000000000
+      internalID: -5090516970355088976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03b868a5670aa6c0800000000000000
+      internalID: -4131481574960483573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9982ad80a4f63e0800000000000000
+      internalID: -2058345102804739603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3071f00b8f011d0800000000000000
+      internalID: -3381929885104143395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c7b402c06328c0800000000000000
+      internalID: -4025267255520017598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a803743f21ce260800000000000000
+      internalID: 7128093146301368953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d40bd25e672390800000000000000
+      internalID: -7843178923901528050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db21f41b7428960800000000000000
+      internalID: 7602717947816230226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c20f785b6ed6af0800000000000000
+      internalID: -401411124421972841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418cdf4a831e65390800000000000000
+      internalID: -7829823268734515180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_26
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca16e2e9885ad510800000000000000
+      internalID: 1574668368959904459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944349db0e056e300800000000000000
+      internalID: 281000952940737609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_28
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c26f079598d19d30800000000000000
+      internalID: 4436565244932743874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1461c2d81fe5d0800000000000000
+      internalID: -3031176730730292276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2317ac4b499f2020800000000000000
+      internalID: 2319240881806709549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7ed245781b06c70800000000000000
+      internalID: 8962358453258282967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401945275258a95b0800000000000000
+      internalID: -5360826010552725244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5baddcbb2b5b70800000000000000
+      internalID: 8888746379718646710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_34
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b9e8a08c6fc670800000000000000
+      internalID: 8561180716500104558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0916874ef0133f0800000000000000
+      internalID: -922938974687620906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408f1e10f36dee780800000000000000
+      internalID: -8651742268029274108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7a5902eceb3a00800000000000000
+      internalID: 737443419568897461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e946303b7a891ff0800000000000000
+      internalID: -64868457925686812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f1c80bac591150800000000000000
+      internalID: 5843803881146020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8dff1ebca3f260800000000000000
+      internalID: 7130232567638100973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd575bed2621b510800000000000000
+      internalID: 1563072524338027978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff7ce2eb274f58c0800000000000000
+      internalID: -4008406889520136198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a5f3f5e94e4f7c0800000000000000
+      internalID: -4038351596990539158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627bdc5fe9700b160800000000000000
+      internalID: 7039134596890212134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_45
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8edb11875e7cb0800000000000000
+      internalID: -4864354335483589102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdc55931367e180800000000000000
+      internalID: -9086184787435266080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_47
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d68677a585f52be0800000000000000
+      internalID: -1502524946269174060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_48
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011882c5e0e714f0800000000000000
+      internalID: -857969926574960381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a412a3206bf32580800000000000000
+      internalID: -8852956052147006302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557549088b93c85a0800000000000000
+      internalID: -6517771096117979307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_51
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef464c1ea96be300800000000000000
+      internalID: 282435598160383974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70feaac0ad21ccbd0800000000000000
+      internalID: -2608689356429660409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670ce1dc3b6db550800000000000000
+      internalID: 6178212172786304879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_54
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f3c309050b5540800000000000000
+      internalID: 4997593747773714604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_55
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e70ae0da1fe3ed0800000000000000
+      internalID: -2432241023156453805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b551a5db537f5e50800000000000000
+      internalID: 6800280800616076728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe904d58e98611b0800000000000000
+      internalID: -5686205848418738448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_58
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee2d67743670be60800000000000000
+      internalID: 7976004907787169510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_59
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1603009360bbd5e70800000000000000
+      internalID: 9105639657013522529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_60
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ffd873e754d65d0800000000000000
+      internalID: -3067719362769191166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21cb7b8805ec61c0800000000000000
+      internalID: -4508977302042066642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b9dabef73f74ca0800000000000000
+      internalID: -6032585445099070587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e56a73a051ae20800000000000000
+      internalID: 3360055460058489581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_64
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a896d9edc1bfe0800000000000000
+      internalID: -1174931623555586905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_65
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf436a621b05ee650800000000000000
+      internalID: 6264032853506798843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a98bb7142790fe30800000000000000
+      internalID: 4535291006034872744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_67
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d91dd7e93e455600800000000000000
+      internalID: 456356947858102739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_68
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c1a9d684b883fd0800000000000000
+      internalID: -2361984861363102563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_69
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddda999a613fdb1a0800000000000000
+      internalID: -6792005384344588835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_70
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b83e8ab48b459c0800000000000000
+      internalID: -3939321138946798765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_71
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b81c25b837503e0800000000000000
+      internalID: -2088135809990292658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_72
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8922905cb4cc6f0800000000000000
+      internalID: -663071735496402772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_73
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf815bc3b177e40800000000000000
+      internalID: 5654017804737248489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2897cc68fd09350800000000000000
+      internalID: 6021558471843480263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_75
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0807d9e3663d30800000000000000
+      internalID: 4410822741042138607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8425bd76b3ee475d0800000000000000
+      internalID: -3065563507419557304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_77
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d5e542ecbac700800000000000000
+      internalID: 561468783582367750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_78
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9921746a1457b40800000000000000
+      internalID: 5437324307532519871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_79
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f6d6d24013d4a40800000000000000
+      internalID: 5353989426025164635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_80
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53800d4e94d3ec8e0800000000000000
+      internalID: -1671331024127129547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_81
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823755467b2a2700800000000000000
+      internalID: 516272894256820877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f3d67a7d024820800000000000000
+      internalID: 2900895929610794514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_83
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8a6d6fc4ed4460800000000000000
+      internalID: 7227684556544577522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_84
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992eadda6539639d0800000000000000
+      internalID: -2794884518243540327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_85
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f3133f9bb388c70800000000000000
+      internalID: 8973487927370792725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_86
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb00ab73533e0690800000000000000
+      internalID: -7634107884697023508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_87
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905676a708f9e8ee0800000000000000
+      internalID: -1256891871831562999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582adfa11e5b736f0800000000000000
+      internalID: -704894838235094395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_89
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a5cb7976fed030800000000000000
+      internalID: 3521522960278331997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_90
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb6d08acf398f4f0800000000000000
+      internalID: -794722620870399036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40963547a13e869c0800000000000000
+      internalID: -3933644571747849980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17075c6b6fce55a40800000000000000
+      internalID: 5356447876199575665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_93
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c558d8671a57648f0800000000000000
+      internalID: -556628167594506916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_94
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329003ee22506fe0800000000000000
+      internalID: -1197867139550113221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_95
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021824c977d9a8a30800000000000000
+      internalID: 4218357138034164000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_96
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca4dc6fd38999f0800000000000000
+      internalID: -461192491201942338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_97
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b7fbb1d24de870800000000000000
+      internalID: 8713694322600949056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_99
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dfe82ee4eb4de10800000000000000
+      internalID: 2221609762218245382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0889193c40fa32d0800000000000000
+      internalID: -3298059566929311729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_101
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babfa41e40d6d9e00800000000000000
+      internalID: 1053117755601648555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_102
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3c2bd3641c61e0800000000000000
+      internalID: -2203363698579588347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_103
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7ad58572c60150800000000000000
+      internalID: 5838567776945077645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb07fdc1de39d490800000000000000
+      internalID: -7721071015325398079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65b87131b965eb0800000000000000
+      internalID: -4731423852204435750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_106
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b848b75e92f25e40800000000000000
+      internalID: 5643840044939102386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_107
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571747f9f75df80e0800000000000000
+      internalID: -2265357343431298699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_108
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1832fdc306a0e0800000000000000
+      internalID: -2259113980012782662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_109
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb48c8ae0ae34c0800000000000000
+      internalID: -4305827264479314879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22243eee60b74a1b0800000000000000
+      internalID: -5646252763107868126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed60ddd1292fbef50800000000000000
+      internalID: 6911884762510329566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_112
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338b990fa00a86f0800000000000000
+      internalID: -681731641812745423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_113
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246482bf346562940800000000000000
+      internalID: 5270995263860262466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_114
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3889f7e5b50ce1f0800000000000000
+      internalID: -1014429537226094530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5091e0adadc300800000000000000
+      internalID: 274066058830175512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Potion
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65eb311f49efa490800000000000000
+      internalID: -7732705509371026069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Potion
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f66f20cbe21a70800000000000000
+      internalID: 8796352232869525636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Chest_Closed
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75f835641536610800000000000000
+      internalID: 1613222454020233201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Chest_Full
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d78b9e7420cbb80800000000000000
+      internalID: -8377818698928849600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Small_Chest_Empty
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 152
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745660a123ebd6d60800000000000000
+      internalID: 7885167644989875527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Chest_Close
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 128
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.25, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b333dd89bb6a4670800000000000000
+      internalID: 8523743689444635571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Chest_Full
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 128
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.25, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda38bc8a5146740800000000000000
+      internalID: 5144260489077042661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Large_Chest_Empty
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 128
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.25, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230b524ed90ea5200800000000000000
+      internalID: 169694904721977394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tall_Pot
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 96
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42a667ae6d4ba90800000000000000
+      internalID: -7298972793563372384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Short_Pot
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 96
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512fbf7f760a3c30800000000000000
+      internalID: 4339788335598739798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d86ece325047560800000000000000
+      internalID: 7310473746985684225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 16
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf780fe8cc5674100800000000000000
+      internalID: 92154246630246395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_0
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 48
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5974f0492608a6680800000000000000
+      internalID: -8761048964216698987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 48
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10d373621f802d0800000000000000
+      internalID: -3312132379493203463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34750704cdba148e0800000000000000
+      internalID: -1710897420961818813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7643987a93feb8c0800000000000000
+      internalID: -3981477175775508870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb021129fa3f6f0e0800000000000000
+      internalID: -2236332229547450177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_126
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce57302fef0798f60800000000000000
+      internalID: 8037079250303677932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_127
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ee8bf8fcaed090800000000000000
+      internalID: -8007772902045850856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_129
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7908f4586f78b3130800000000000000
+      internalID: 3547578624352682135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_130
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4693ed3dd39d93c40800000000000000
+      internalID: 5492660080125819236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_131
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e078ac6bee2342890800000000000000
+      internalID: -7483800679932590322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_132
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb17a3ec735c89e0800000000000000
+      internalID: -1617826370272420869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_135
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5550c4a05ee8f90800000000000000
+      internalID: -6949365342598244913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_136
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2870453bd8cf2720800000000000000
+      internalID: 2823696335201400876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb7530fb7bdee4b0800000000000000
+      internalID: -5409144777067889722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_139
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64573ed2ea431890800000000000000
+      internalID: -7488559417135770518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_140
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1187facd7d121a0800000000000000
+      internalID: -6835945416535043665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_141
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649ebe7bd049bf80800000000000000
+      internalID: -8090363944125950868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_142
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4394b3f471a11d0800000000000000
+      internalID: -3379362941323627353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_143
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442432c7066e4bae0800000000000000
+      internalID: -1534348270952562108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_144
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41ff666bc4be3c10800000000000000
+      internalID: 2035262867308015951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_145
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3091155cc52260800000000000000
+      internalID: 7072283455594183322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_146
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8f39b673f412c00800000000000000
+      internalID: 874066902133242085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_147
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53346102da9230e30800000000000000
+      internalID: 4468461078826074933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_148
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa524be1a81a870800000000000000
+      internalID: 8692380620277788452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_149
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34789bd66a6dee0800000000000000
+      internalID: -1236618057472326706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_150
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8320e6f1ef5c20800000000000000
+      internalID: 3197522710894972833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_151
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c2dce1a3912490800000000000000
+      internalID: -7772769158192511228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_152
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41ecb256b5a966a0800000000000000
+      internalID: -6455446388368154292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_153
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc55c1f990ce730800000000000000
+      internalID: 4029606345569585974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_154
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd8799510682150800000000000000
+      internalID: 5848029762026004307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_155
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfebacb26e402a950800000000000000
+      internalID: 6458730202226409211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_156
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb38e171b627750f0800000000000000
+      internalID: -1128307377358076997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_157
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9faf17cb936d20800000000000000
+      internalID: 3270629033933512306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_158
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7740b40e759084f0800000000000000
+      internalID: -828497962959091846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_159
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f08660d8642e18f0800000000000000
+      internalID: -567976470410526476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_160
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4234007a3617be30800000000000000
+      internalID: 4519105191332819530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_161
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced91cce35d5aa090800000000000000
+      internalID: -8022497171171336724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80e23f134fcac30800000000000000
+      internalID: 4372137833640364253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_163
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be928f841bf28140800000000000000
+      internalID: 4720611425163321017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_164
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5f3a43de0a72500800000000000000
+      internalID: 371442434932209057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_165
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c67a46db519a60800000000000000
+      internalID: 7679019815573832295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_166
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1993c62d53fc42090800000000000000
+      internalID: -8060089603015820911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level_Tile_167
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f40c09054762b80800000000000000
+      internalID: -8419914563947835498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

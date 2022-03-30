@@ -1,0 +1,49 @@
+Credits:
+
+-- Programming --
+Simon Choquet
+
+-- Art --
+Open Game Art:
+
+Karto Tileset
+Oleaguid Font
+made by Arynoc
+
+Goblin Corps
+MV Platformer Male
+Bat (32x32)
+MV Platformer Skeleton
+made by MoikMellah
+
+Classical Ruin Tiles
+made by surt
+
+Rock Set #1
+made by Nikkita31
+adapted by Simon Choquet
+
+Itch.io:
+Olde style fantasy portraits
+made by CobraLad
+
+-- Music & Sounds --
+Open Game Art:
+
+Menu Music
+by mrpoly
+
+Keyboard Soundpack #1
+by unicaegames
+
+Inventory Sound Effects
+by artisticdude
+
+Sound Effects Pack
+by OwlishMedia
+
+--Notice!--
+For more information,
+please visit my github.
+
+---Thanks for Playing!---
